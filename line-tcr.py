@@ -1482,9 +1482,9 @@ def bot(op):
                     gs = ki.getGroup(msg.to)
                     gs = kk.getGroup(msg.to)
                     gs = kc.getGroup(msg.to)
-                    ki.sendText(msg.to,"Just some casual cleansing ô")
-                    kk.sendText(msg.to,"Group cleansed.")
-                    kc.sendText(msg.to,"Fuck You All")
+                    ki.sendText(msg.to,"BYEEE!!!!!")
+                    kk.sendText(msg.to,"THX!.")
+                    kc.sendText(msg.to,"Group cleansed")
                     targets = []
                     for g in gs.members:
                         if _name in g.displayName:
